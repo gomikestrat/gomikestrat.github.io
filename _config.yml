@@ -1,1 +1,49 @@
+<<<<<<< ea89a32e10e0735b126df74bfcfe0917b0f9f458
 theme: jekyll-theme-minimal
+=======
+title: mikestrat.com
+description: digital presence
+author: Mike Stratigiou
+github: https://github.com/gomikestrat
+about: I am who I am
+disqus_shortname: mikestratcom
+google_analytics: UA-42199037-10
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/gomikestrat"
+    - icon: fa-twitter
+      link: "https://twitter.com/gomikestrat"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/stratigiou"
+
+share:
+  twitter_username: gomikestrat
+  fb_appid: 132649393903310
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "http://www.mikestrat.com"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+>>>>>>> initial commit
