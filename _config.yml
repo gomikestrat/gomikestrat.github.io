@@ -1,6 +1,3 @@
-<<<<<<< ea89a32e10e0735b126df74bfcfe0917b0f9f458
-theme: jekyll-theme-minimal
-=======
 title: mikestrat.com
 description: digital presence
 author: Mike Stratigiou
@@ -46,4 +43,3 @@ markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
->>>>>>> initial commit
